@@ -378,7 +378,7 @@ h2{
 .footer-section{
     padding: 80px 0;
     background: url(../images/footerbg.png) center bottom no-repeat;
-    background-size:contain;
+    background-size:100% 100%;
 }
 
 .footer-section .faq{
